@@ -1,4 +1,4 @@
-module foosoft.net/projects/homemaker
+module github.com/pdstuber/homemaker
 
 go 1.18
 
